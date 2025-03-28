@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zzaib
-- 👀 I’m interested in safeguarding identity and finances of a every human being.  
+- 👀 I’m interested in safeguarding identity and finances of every human being.  
 - 🌱 I’m currently learning RHCSA and then Security+ then CCNA is on my list.
 - 💞️ I’m looking to collaborate with finiancial crime corporations that implement policies against vulnerabilities ...
 - 📫 How to reach me: My cell phone number is 469-996-9245, Email: zohaibzaib773@gmail.com
